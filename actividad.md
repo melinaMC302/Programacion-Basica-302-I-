@@ -1,4 +1,2 @@
-# Programacion-Basica-302-I-
-##laura melina morales cerda 
-## 21/noviembre/2009
-## Portfolio de codigos c++
+<img width="210" height="187" alt="image" src="https://github.com/user-attachments/assets/605d1d39-e6fc-4dc1-9476-65b1da9614af" />
+
