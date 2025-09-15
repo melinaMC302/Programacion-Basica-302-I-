@@ -1,4 +1,4 @@
-##PROGRAMAPB302_1.CPP
+## PROGRAMAPB302_1.CPP
 
 ``` cpp
 %%writefile PB302_1.cpp
